@@ -59,10 +59,13 @@ label {color: whitesmoke;}
 .Contacts {position: absolute;
 			bottom: 0;
 			right: 0;
-			color: white;}
+			color: white;
+		   background-color: #FFFFFF;}
+
 
 /*Home*/
 
 .home-head {text-align: center;}
+
 
 
